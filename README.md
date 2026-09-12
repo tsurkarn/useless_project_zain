@@ -44,7 +44,7 @@ The LDR Senses light intensity and when sunlight or any intense light source hit
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
+
 *Add caption explaining connections*
 
 ![Schematic](Add your schematic diagram here)
@@ -64,14 +64,6 @@ For Hardware:
 # Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
