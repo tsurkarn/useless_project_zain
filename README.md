@@ -44,21 +44,11 @@ The LDR Senses light intensity and when sunlight or any intense light source hit
 For Hardware:
 
 # Schematic & Circuit
-
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+<img width="1161" height="2064" alt="git (1)" src="/media/Circuit Diagram.jpg" />
+The LDR and 1k resistor forms a voltage divider, whose output is given to the analog pin 3 of the ESP32 module. The voltage divider is powered by the 3.3V outof the module
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+<img width="1161" height"2064" alt="git (2)" src="/media/Final.jpg" />
 
 ### Project Demo
 # Video
