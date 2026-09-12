@@ -48,7 +48,7 @@ For Hardware:
 The LDR and 1k resistor forms a voltage divider, whose output is given to the analog pin 3 of the ESP32 module. The voltage divider is powered by the 3.3V outof the module
 
 # Build Photos
-<img width="1161" height"2064" alt="git (2)" src="/media/Final.jpg" />
+<img width="2064" height="1161" alt="git (2)" src="/media/Final.jpg" />
 
 ### Project Demo
 # Video
