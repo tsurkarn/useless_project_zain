@@ -2,39 +2,35 @@
 
 
 
-# [Project Name] 🎯
+# [Useless Project Zain] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Mech^2 (Zain)]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- [Zain Jisa Chemmanoor] - [NSS College of Engineering, Palakkad]
 
 ### Project Description
-[2-3 lines about what your project does]
+[Wake up or be unemployed.]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Laziness in the morning preventing you from waking up.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Arduino IDE]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [ESP32 C3 Mini Development Board]
+- [LDR Sensor]
+- [1K Ohm Resistor]
+- [Breadboard]
 
 ### Implementation
 For Software:
