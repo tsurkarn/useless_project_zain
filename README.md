@@ -50,10 +50,6 @@ The LDR and 1k resistor forms a voltage divider, whose output is given to the an
 # Build Photos
 <img width="2064" height="1161" alt="git (2)" src="/media/Final.jpg" />
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
