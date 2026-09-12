@@ -2,60 +2,44 @@
 
 
 
-# [Useless Project Zain] 🎯
+# Useless Project Zain 🎯
 
 
 ## Basic Details
-### Team Name: [Mech^2 (Zain)]
+### Team Name: Mech^2 (Zain)
 
 
 ### Team Members
-- [Zain Jisa Chemmanoor] - [NSS College of Engineering, Palakkad]
+- Zain Jisa Chemmanoor - NSS College of Engineering, Palakkad
 
 ### Project Description
-[Wake up or be unemployed.]
+Wake up or be unemployed.
 
 ### The Problem (that doesn't exist)
-[Laziness in the morning preventing you from waking up.]
+Laziness in the morning preventing you from waking up.
 
 ### The Solution (that nobody asked for)
-[]
+Wake up before the sun rises. Otherwise a mail swearing an important person (like your boss) will be sent.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Arduino IDE]
-
+- Arduino IDE
+- ReadyMail SMTP Server Library (Arduino)
+  
 For Hardware:
-- [ESP32 C3 Mini Development Board]
-- [LDR Sensor]
-- [1K Ohm Resistor]
-- [Breadboard]
+- ESP32 C3 Mini Development Board
+- LDR Sensor
+- 1K Ohm Resistor
+- Breadboard
+- Jumper Wires
+- USB Data Cable
 
 ### Implementation
-For Software:
-# Installation
-[commands]
 
-# Run
-[commands]
+The LDR Senses light intensity and when sunlight or any intense light source hits it, the reading value changes triggering the mail sequence. (Its embarassing...)
 
 ### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
 For Hardware:
 
